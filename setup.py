@@ -7,7 +7,7 @@ Usage:
 
 from setuptools import setup
 
-APP = ['saper.py']
+APP = ['minesweeper.py']
 DATA_FILES = []
 OPTIONS = {}
 

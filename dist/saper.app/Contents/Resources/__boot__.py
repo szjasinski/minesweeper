@@ -96,6 +96,6 @@ def _setup_ctypes():
 _setup_ctypes()
 
 
-DEFAULT_SCRIPT='saper.py'
+DEFAULT_SCRIPT='minesweeper.py'
 SCRIPT_MAP={}
 _run()
